@@ -1,1 +1,2 @@
-Portofolio Profile
+# 💫 About Me:
+🔭 I’m currently working using Next.js, Django & MSSQL<br>👯 I’m open to collaborating on dashboards, internal systems & smart automation<br>🤝 I’m looking for help with optimizing Django APIs & scalable backend design<br>🌱 I’m learning more about data science, AI integration & async task processing<br>💬 Ask me about full-stack dev<br>⚡ Fun fact: I let AI write the boring parts — I handle the logic and structure
