@@ -1,77 +1,203 @@
-# 💫 About Me:
-🔭 I’m currently working using Next.js, Django & MSSQL<br>👯 I’m open to collaborating on dashboards, internal systems & smart automation<br>🤝 I’m looking for help with optimizing Django APIs & scalable backend design<br>🌱 I’m learning more about data science, AI integration & async task processing<br>💬 Ask me about full-stack dev<br>⚡ Fun fact: I let AI write the boring parts — I handle the logic and structure
+# Hello World! 👋 I'm Gigih
 
+Welcome to my GitHub profile.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gigihko)  
-![Profile Views](https://komarev.com/ghpvc/?username=gigihko&label=Profile%20views&color=0e75b6&style=flat)
+```bash
+$ whoami
 
+Full Stack Developer
+Backend Engineer
+Automation Enthusiast
+Problem Solver
 
-## 💻 Tech Stack
+$ current_stack
 
-### 🛠 Backend Development
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+Next.js
+Django REST Framework
+MSSQL Server
+Python
+Docker
 
-### 🎨 Frontend Development
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+$ coffee --status
 
-### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%2300A9E0.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux Server](https://img.shields.io/badge/Linux%20Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+☕ Running...
+```
 
-### 🧪 Monitoring & Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Logging](https://img.shields.io/badge/Logging-%2300BFFF.svg?style=for-the-badge&logo=logstash&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23F7DF1E.svg?style=for-the-badge&logo=jest&logoColor=black)
+---
 
-### 🔌 System Integration
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-%23007396.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-%234A90E2.svg?style=for-the-badge&logo=uipath&logoColor=white)
-![Excel Automation](https://img.shields.io/badge/Excel%20Automation-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+# 💫 About Me
 
-### 👥 Leadership & Team Management
-![Mentoring](https://img.shields.io/badge/Mentoring-%23FF6F61.svg?style=for-the-badge&logo=handshake&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-%2300A9E0.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code%20Review-%232E3A59.svg?style=for-the-badge&logo=github&logoColor=white)
+🔭 Currently building enterprise applications using **Next.js, Django & MSSQL**
 
-### 🤖 Automation & Workflow
-![Python Scripts](https://img.shields.io/badge/Python%20Scripts-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Excel Reporting](https://img.shields.io/badge/Excel%20Reporting-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![RPA Tools](https://img.shields.io/badge/RPA%20Tools-%234A90E2.svg?style=for-the-badge&logo=uipath&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-%2300BFFF.svg?style=for-the-badge&logo=zapier&logoColor=white)
+🌱 Learning more about **AI Integration, Data Science, System Design & Scalable Architectures**
 
-### 🧩 Problem Solving
-![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-%23E67E22.svg?style=for-the-badge&logo=search&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-%23000000.svg?style=for-the-badge&logo=bugatti&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23007396.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23FF69B4.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL Troubleshooting](https://img.shields.io/badge/SQL%20Troubleshooting-%23007396.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+👯 Open to collaborating on:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gigihko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gigihko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigihko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* Internal Business Systems
+* Dashboard Applications
+* Workflow Automation
+* AI-assisted Productivity Tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gigihko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🤝 Looking for help with:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+* Distributed Systems
+* High Performance Django APIs
+* Large Scale Backend Design
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gigihko&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💬 Ask me about:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Django
+* Next.js
+* MSSQL
+* API Design
+* Enterprise Applications
+
+⚡ Fun fact:
+
+> I let AI write the repetitive code.
+> I focus on architecture, business logic and problem solving.
+
+---
+
+# 📈 Activity Overview
+
+```text
+💻 Primary Focus
+├── Backend Development (Django)
+├── Frontend Development (Next.js)
+├── MSSQL Database Design
+├── Workflow Automation
+└── Enterprise System Integration
+
+🚀 Current Interests
+├── Artificial Intelligence
+├── Data Science
+├── System Design
+├── Backend Performance Optimization
+└── Business Process Automation
+
+🎯 What I Build
+├── Credit Approval Platforms
+├── Dashboard & Reporting Systems
+├── Approval Workflow Engines
+├── Internal Business Applications
+└── AI-assisted Tools
+```
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/gigihko)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gigihko\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+# 🚀 Professional Highlights
+
+✔ Building enterprise-level applications using Django & Next.js
+
+✔ Designing approval workflows with complex business rules
+
+✔ Integrating MSSQL databases with modern web applications
+
+✔ Creating automation tools that reduce repetitive manual work
+
+✔ Developing dashboards and reporting systems for business users
+
+✔ Mentoring junior developers and participating in code reviews
+
+---
+
+# 💻 Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Database
+
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### Tools & Automation
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge\&logo=swagger\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
+---
+
+# 📦 Featured Projects
+
+| Project                   | Description                                        |
+| ------------------------- | -------------------------------------------------- |
+| Credit Approval Platform  | Enterprise credit approval & underwriting workflow |
+| Store Space Portal        | Store management & reporting system                |
+| Daily Journal Access      | User provisioning & access management              |
+| Dashboard Suite           | KPI & operational dashboards                       |
+| Workflow Automation Tools | Internal productivity & automation systems         |
+
+---
+
+# 📊 GitHub Public Repo Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gigihko\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gigihko\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
+# 🔥 Activity Overview
+
+![](https://streak-stats.demolab.com?user=gigihko\&theme=github-dark-blue\&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=gigihko\&theme=github-dark\&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=gigihko\&theme=algolia\&no-frame=true\&margin-w=10)
+
+---
+
+# ✍️ Developer Philosophy
+
+```text
+First make it work.
+Then make it clean.
+Then make it fast.
+Then automate it.
+```
+
+---
+
+# ☕ Current Mission
+
+```text
+Building better systems,
+automating repetitive work,
+and continuously learning new things.
+```
